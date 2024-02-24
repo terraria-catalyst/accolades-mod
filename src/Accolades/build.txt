@@ -1,0 +1,4 @@
+﻿displayName = Accolades - Modded Achievement Library
+author = Tomat (Team Catalyst)
+version = 1.0.0
+homepage = https://discord.gg/vPTUZcvXjg/

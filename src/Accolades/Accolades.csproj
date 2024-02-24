@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <Import Project="../../catalyst/Mod.Build.targets"/>
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <Nullable>enable</Nullable>
+        <RootNamespace>TeamCatalyst.Accolades</RootNamespace>
+
+        <AssemblyPublicizerPaths>$(AssemblyPublicizerPaths);$(MSBuildThisFileDirectory)accolades.publicizer.js</AssemblyPublicizerPaths>
+    </PropertyGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+﻿Accolades is a Mod Achievement Library that allows modders to define their own persistent achievements.
+
+Achievements may use existing vanilla conditions or custom modded ones. They may be saved per-player, per-world, or globally.
+
+Custom categories may be specified, and achievements can have multiple categories. They can also be sorted by mods.
